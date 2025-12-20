@@ -131,6 +131,12 @@ Version control включает в себя возможности просмо
 <img width="969" height="436" alt="image" src="https://github.com/user-attachments/assets/61d50028-3abb-4965-ac1e-f2f452eceaeb" />
 <img width="962" height="534" alt="image" src="https://github.com/user-attachments/assets/fcb4873f-4cfa-42d3-a0c7-0342c1b9372c" />
 <img width="956" height="526" alt="image" src="https://github.com/user-attachments/assets/554cae58-44b2-4f93-9521-9eb86d32e3f3" />
+<img width="480" height="608" alt="image" src="https://github.com/user-attachments/assets/bbaf324b-1220-42bf-a39b-9e3a4f937d8f" />
+<img width="1233" height="431" alt="image" src="https://github.com/user-attachments/assets/cde8b860-88c3-4b63-ab0e-6e764450379e" />
+<img width="1035" height="442" alt="image" src="https://github.com/user-attachments/assets/78187f8c-0552-419e-af28-cba366f703e9" />
+
+
+
 
 
 
