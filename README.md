@@ -74,6 +74,17 @@
 ## Диаграмма с draw.io
 <img width="228" height="337" alt="image" src="https://github.com/user-attachments/assets/8e9e6c64-ea3b-4cf7-accd-cc6de0e6f8ec" />
 
+Просматриваем наши файлы и замечаем, что значительных отличий у блок-схемы не наблюдается.
+
+Экспортировали схему в форматы PNG и SVG — оба формата показывают идеальное качество для задач визуализации.
+
+Скопировав схему в буфер обмена и вставив её в Word, получил векторное изображение (EMF/WMF), а при вставке в Paint — растровое (Bitmap).
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/a9d056b2-4c5a-430b-bff6-f4ec43a4c7fd" />
+
+<img width="1882" height="958" alt="image" src="https://github.com/user-attachments/assets/04cb8ff1-ef0b-4f1c-be2c-9cad18153095" />
+
+Также копируем диаграмму в формате Markdown и вставляем в Google collab
+<img width="978" height="598" alt="image" src="https://github.com/user-attachments/assets/c4ab5852-fe31-4db7-9daf-f3fbcb4b5518" />
 
 
 
